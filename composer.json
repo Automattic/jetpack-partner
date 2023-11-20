@@ -4,8 +4,9 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.60.2-alpha",
-		"automattic/jetpack-status": "^1.19.0"
+		"php": ">=7.0",
+		"automattic/jetpack-connection": "^2.0.0-alpha",
+		"automattic/jetpack-status": "^2.0.0-alpha"
 	},
 	"require-dev": {
 		"brain/monkey": "2.6.1",
